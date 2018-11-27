@@ -1,3 +1,5 @@
+0x1ED6F0 returns aimanager, might be from last patch 8.23
+
 Edited to fit League of Legends new Anti-Cheat system.
 
 
